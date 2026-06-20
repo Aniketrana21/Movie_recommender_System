@@ -25,5 +25,5 @@ Thumbs.db
 
 # Large model artifacts (uncomment if you regenerate these locally
 # instead of committing them — see README for size considerations)
-movies.pkl
-similarity.pkl
+
+
