@@ -1,0 +1,29 @@
+# Secrets — never commit API keys
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Large model artifacts (uncomment if you regenerate these locally
+# instead of committing them — see README for size considerations)
+movies.pkl
+similarity.pkl
