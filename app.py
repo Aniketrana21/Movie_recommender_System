@@ -70,7 +70,7 @@
 #
 # # def fetch_poster(movie_id):
 # #     try:
-# #         url = f"https://api.themoviedb.org/3/movie/{movie_id}?api_key=1afde1a7c96a6a1945685566f8935b60&language=en-US"
+# #         url = f"https://api.themoviedb.org/3/movie/{movie_id}?api_key=&language=en-US"
 # #
 # #         response = requests.get(url, timeout=10)
 # #         response.raise_for_status()
